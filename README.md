@@ -134,7 +134,7 @@ You can see which libraries support this auto-complete capability by browsing th
 
 ## Running The App
 
-Now that we've explored and tweaked this app a bit, now is time to run it. To do this, simply hit `F5` to run the app. Because this is the first time we've ever tried to run it, we're asked to specify the type of "run configuration" we want to use:
+Now that we've explored and tweaked this app a bit, it is time to run it. To do this, simply hit `F5` to run the app. Because this is the first time we've ever tried to run it, we're asked to specify the type of "run configuration" we want to use:
 
 <img src="images/DebugConfig.png" width="450px" />
 
